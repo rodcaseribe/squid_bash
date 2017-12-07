@@ -1,2 +1,2 @@
-# squid_bash
+# Squid_Bash_Projects
 
